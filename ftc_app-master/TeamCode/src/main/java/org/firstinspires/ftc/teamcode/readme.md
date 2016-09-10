@@ -1,3 +1,7 @@
+To see an example of an OpMode: https://github.com/Brenn10/ftc_app-master/blob/master/FtcRobotController/src/main/java/com/qualcomm/ftcrobotcontroller/opmodes/competition/CompetitionTeleOp.java
+
+This was our teleop mode last year (driver controlled mode)
+
 ## TeamCode Module
 
 Welcome!
